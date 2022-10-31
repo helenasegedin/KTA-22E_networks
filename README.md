@@ -25,4 +25,4 @@
 * http kasutab porti 80, ssh porti 22
 * rst = reset package, kui server ei kuula porti ja ei vasta
 
-* TCP ühendus (`nc -l 3456` ja `nc localhost 3456`) - mõlemad hostid saavad teisele sõnumeid saata
+* TCP ühendus (`nc -l 3456` ja `nc localhost 3456`) - mõlemad hostid saavad teisele sõnumeid saata; ühenduse sulgemiseks ctrl-D
